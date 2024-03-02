@@ -127,7 +127,12 @@ ol {
 #edu {
     color: rgb(103, 219, 255);
 }
-
+.title{
+    color: rgb(103, 219, 255);
+    display:flex;
+    justify-content: left;
+    
+}
 .social-connection {
     margin-top: 3vh;
     display: flex;
