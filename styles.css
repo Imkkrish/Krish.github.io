@@ -30,6 +30,15 @@ body {
 .right-column {
     padding: 20px;
 }
+.box {
+    width: auto;
+    padding: 20px; /* Adjust padding as needed */
+    margin: 10px; /* Adjust margin as needed */
+    background-color: #0c0e15;
+    border: 1px solid #0c0e15;
+    border-radius: 5px;
+   
+}
 
 .profile {
     width: 200px; /* Adjust width as needed */
